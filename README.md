@@ -6,11 +6,6 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Created a local notes application using SQFLite with clean UI and local database management.Technologies: Flutter, SQFLite
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1418" height="1024" alt="Notes-App" src="https://github.com/user-attachments/assets/c0806b24-7d2f-43ff-95db-91c2579229e9" />
